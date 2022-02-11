@@ -9,7 +9,7 @@ module.exports = {
     DESIRED_RATE_TX: "25",
     AMOUNT_DATA_BYTES: "0",
     TEST_TIME_MINUTES: "1",
-    RPC_URL: "asa",
+    RPC_URL: "",
     NUMBER_OF_CONTAINERS: "1",
     STORE_DATA: true,
     MAX_GAS_PER_TX: "1000000",
