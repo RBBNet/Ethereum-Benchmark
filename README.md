@@ -23,13 +23,13 @@ adicione o seu nó Rpc na variável RPC_URL: "" dentro do arquivo key.js
 # passo 3
 
 
-rode o "npm install" ainda dentro da pasta server1
+execute o "npm install" ainda dentro da pasta server1
 
 
 
 # passo 4 
 
-rode por último o:
+execute por último o:
 
 node index.js
 
