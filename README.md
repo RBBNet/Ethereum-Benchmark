@@ -1,6 +1,6 @@
 ## Rodar um teste de stress de forma rápida
 
-## requisito 
+## Requisito 
 
 Ter o node instalado na sua máquina
 
@@ -8,28 +8,28 @@ Ter o node instalado na sua máquina
 
 ## como usar
 
-# passo 1 
+# Passo 1 
 
-clonar o projeto para a sua máquina
+Clonar o projeto para a sua máquina
 
 
-# passo 2
+# Passo 2
 
-acessar a pasta server1e 
+Acessar a pasta server1e 
 
 adicione o seu nó Rpc na variável RPC_URL: "" dentro do arquivo key.js
 
 
-# passo 3
+# Passo 3
 
 
-execute o "npm install" ainda dentro da pasta server1
+Execute o "npm install" ainda dentro da pasta server1
 
 
 
-# passo 4 
+# Passo 4 
 
-execute por último o:
+Execute por último o:
 
 node index.js
 
