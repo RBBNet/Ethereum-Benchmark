@@ -12,5 +12,7 @@ module.exports = {
     RPC_URL: "",
     NUMBER_OF_CONTAINERS: "1",
     STORE_DATA: true,
-    MAX_GAS_PER_TX: "1000000"
+    MAX_GAS_PER_TX: "1000000",
+    type = "1",
+    SMART_CONTRACT_OPTION  = "0"
 }

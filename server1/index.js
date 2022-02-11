@@ -1,6 +1,7 @@
 const {execEtherTest} = require("./TestEtherSending")
 const {execSmartContractTest} = require("./TestSmartContract")
-const type = "1"
+const {type} = require("./keys")
+
 
 if (type === "0") {
   console.log("Executing Ether sending test ...")

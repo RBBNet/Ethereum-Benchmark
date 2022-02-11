@@ -1,8 +1,9 @@
 const {web3} = require("./pantheon_utils/web3")
+const {SMART_CONTRACT_OPTION} = require("./keys")
 // set to 1 for faster validation in this course.
 web3.transactionConfirmationBlocks = 1
 const sha3 = require("js-sha3").keccak_256
-const SMART_CONTRACT_OPTION  = "0"
+
 let set
 
 const setSimpleStorage = () => {
