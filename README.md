@@ -6,7 +6,7 @@ Ter o node instalado na sua máquina
 
 
 
-## como usar
+## Como usar
 
 # Passo 1 
 
