@@ -1,5 +1,5 @@
 ## Rodar um teste de stress de forma rápida
-Este repositório que ainda está em construção e tem o intuito de tirar a  dependência do docker ao teste de estresse da lacchain: https://github.com/lacchain/Ethereum-Benchmark. 
+
 ## Requisito 
 
 * node js version 12
