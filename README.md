@@ -2,7 +2,7 @@
 Este repositório que  ainda em construção e tem o intuito de tirar a  dependência do docker ao teste de estresse da lacchain: https://github.com/lacchain/Ethereum-Benchmark. 
 ## Requisito 
 
-*node js version 12
+* node js version 12
 
 
 ## Como usar
