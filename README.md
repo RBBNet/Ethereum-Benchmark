@@ -16,16 +16,11 @@ node:12
 ```
 RPC_URL: ""
 ```
-* Passo 3
-
-
-Execute o "npm install" ainda dentro da pasta server1
-
+* Passo 3: Execute o "npm install" ainda dentro da pasta server1
+```
 npm install
-
-* Passo 4 
-
-Execute por último o:
-
+```
+* Passo 4 :Execute node index.js para iniciar o teste
+```
 node index.js
-
+```
