@@ -1,4 +1,5 @@
 ## Rodar um teste de stress de forma rápida
+Este repositório tem o intuito de tirar a dependência do docker no teste de estresse da lacchain: https://github.com/lacchain/Ethereum-Benchmark.  
 
 ## Requisito 
 
