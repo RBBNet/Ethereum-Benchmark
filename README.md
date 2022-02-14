@@ -13,10 +13,9 @@ node:12
 
 
 * Passo 2: Acessar a pasta server1 e adicionar o seu nó Rpc na variável RPC_URL: "" dentro do arquivo key.js
-
-'''
+´´´
 RPC_URL: ""
-'''
+´´´
 * Passo 3
 
 
